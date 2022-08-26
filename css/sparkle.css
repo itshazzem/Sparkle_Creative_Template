@@ -1411,8 +1411,7 @@ footer .container .col p:first-of-type {
 
 footer .container .col p.graphberry {
     margin-bottom: 15px;
-    letter-spacing: .5px;
-    white-space: nowrap;
+    max-width: 100%;
 }
 
 footer .container ul.links-col {
