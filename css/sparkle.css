@@ -648,14 +648,14 @@ header .nav li:hover a::before {
 }
 
 /* Very Small Phone */
-@media (min-width:375px) and (max-width:666px) {
+@media (min-width:0px) and (max-width:767px) {
     .services .row .col .info h3 {
         margin: 15px 0px;
     }
 }
 
 /* Tablets and Phones */
-@media (min-width:667px) and (max-width:992px) {
+@media (min-width:768px) and (max-width:991px) {
     .services .row .col .info h3 {
         margin: 30px 0px;
     }
